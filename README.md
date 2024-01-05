@@ -1,1 +1,1 @@
-# demo-repo
+# Demo Repository
