@@ -5,7 +5,7 @@ pipeline {
 	stages {
 		stage('build') {
 			steps {
-				sh 'echo Hello Robert'
+				sh './script.sh'
 			}
 		}
 
